@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+#CONFIGURAÇÃO DE ACESSO AO BANCO DE DADOS
+appsettings.json
